@@ -1,5 +1,5 @@
 ### Hi there 👋......................readme in the making
-### 🙋‍Hi, I'm Carmen Cruces. I am a FullStack Web Developer currently recently graduated in programming at the FemCodersMalaga bootcamp where I have studied from October 2022 to April 2023.
+### 🙋‍Hi, I'm Carmen Cruces. I am a FullStack Web Developer currently recently graduated in programming at the FemCodersMalaga bootcamp where I have studied from October 2022 to April 2023. I completed an internship at NTTDATA Centers SLU during the months of May and June on the OpenFront project with JS and React. I am still in training, learning daily, practicing and reviewing everything that comes my way.
 ### My Skill Set  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
