@@ -1,4 +1,4 @@
-### Hi there 👋......................readme in the making
+### Hi there 👋......................readme always evolving
 ### 🙋‍‍Hi, I'm Carmen Cruces. I'm a FullStack Web Developer and RPA WorkFusion / Uipath. Graduated in programming in bootcamp FemCodersMalaga where I studied from October 2022 to April 2023 and with Generation Spain / Neoris from September 2023 to December 2023. I did an internship at NTTDATA Centers SLU during the months of May and June 2023 in a Frontend project with JS and React. I'm still in training, learning daily, practicing and reviewing everything I find interesting. I am currently improving Uipath and preparing for the Java certification.
 ### My Skill Set  
 <div align="center">  
