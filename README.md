@@ -1,5 +1,5 @@
 ### Hi there 👋......................readme in the making
-### 🙋‍Hi, I'm Carmen Cruces. I am a FullStack Web Developer currently recently graduated in programming at the FemCodersMalaga bootcamp where I have studied from October 2022 to April 2023. I completed an internship at NTTDATA Centers SLU during the months of May and June on the OpenFront project with JS and React. I am still in training, learning daily, practicing and reviewing everything that comes my way.
+### 🙋‍‍Hi, I'm Carmen Cruces. I'm a FullStack Web Developer and RPA WorkFusion / Uipath. Graduated in programming in bootcamp FemCodersMalaga where I studied from October 2022 to April 2023 and with Generation Spain / Neoris from September 2023 to December 2023. I did an internship at NTTDATA Centers SLU during the months of May and June 2023 in a Frontend project with JS and React. I'm still in training, learning daily, practicing and reviewing everything I find interesting. I am currently improving Uipath and preparing for the Java certification.
 ### My Skill Set  
 <div align="center">  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
@@ -17,8 +17,7 @@
 <a href="https://www.android.com/intl/en_in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/android-original-wordmark.svg" alt="Android" height="50" /></a>
 <a href="https://www.vuejs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vuejs" height="50" /></a>
 <a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>
-<a href="https://www.jira.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jira-original-wordmark.svg" alt="Jira" height="50" /></a>
-<a href="https://www.eclipse.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/eclipse-original-wordmark.svg" alt="Eclipse" height="50" /></a>
+
   
 </div>  
 
